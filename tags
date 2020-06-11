@@ -16,5 +16,6 @@ render	test/MovieReviews_test.js	/^  return !Component.prototype.render;$/;"	m	c
 render	test/SearchableMovieReviewsContainer_test.js	/^  return !Component.prototype.render;$/;"	m	class:return
 return	test/MovieReviews_test.js	/^function isStateless(Component) {$/;"	c
 return	test/SearchableMovieReviewsContainer_test.js	/^function isStateless(Component) {$/;"	c
+reviews	src/components/LatestMovieReviewsContainer.js	/^  state = {$/;"	p	class:class
 userAgent	test/helpers.js	/^global.navigator = {$/;"	p	class:global.navigator
 userAgent	test/root.js	/^global.navigator = {$/;"	p	class:global.navigator
